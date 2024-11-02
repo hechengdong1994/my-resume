@@ -1,0 +1,353 @@
+{
+  "basics": {
+    "name": "何承栋",
+    "headline": "Java Developer",
+    "email": "569186076@qq.com",
+    "phone": "18859111233",
+    "location": "福建福州",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "pp9u3rngro155cv85d0edoaj",
+        "icon": "",
+        "name": "",
+        "value": "1994.03"
+      }
+    ],
+    "picture": {
+      "url": "https://i.imgur.com/HgwyOuJ.jpg",
+      "size": 120,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": true,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p></p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "教育经历",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "yo3p200zo45c6cdqc6a2vtt3",
+          "visible": true,
+          "institution": "华中师范大学",
+          "studyType": "",
+          "area": "",
+          "score": "信息管理与信息系统/心理学",
+          "date": "2012.09-2016.06",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "工作经历",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "q0odebyuc9jtfqi9qw0465ql",
+          "visible": true,
+          "company": "网龙网络公司",
+          "position": "Java开发",
+          "location": "",
+          "date": "2016.07-2024.07",
+          "summary": "<p>负责SaaS架构下公共支撑类服务的开发和维护。负责DevOps和运维自动化需求的对接到交付。在职期间，所负责服务未出现线上故障。</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": []
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": false,
+      "visible": false,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "cnbk5f0aeqvhx69ebk7hktwd",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "johndoe",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://linkedin.com/in/johndoe"
+          }
+        },
+        {
+          "id": "ukl0uecvzkgm27mlye0wazlb",
+          "visible": true,
+          "network": "GitHub",
+          "username": "johndoe",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/johndoe"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "项目介绍",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "yw843emozcth8s1ubi1ubvlf",
+          "visible": true,
+          "name": "定时任务调度服务",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>简介：该服务包含一次性定时任务、周期性定时任务和失败重发功能，为微服务架构下的数据最终一致性提供能力支撑。</p></li><li><p>主要技术栈：Spring+MongoDB数据存储+双RabbitMQ作为高可用数据输入通道+React前端</p></li><li><p>主要工作和业绩：<strong>解决了大量突发任务导致的资源抢占问题</strong>。通过任务数据表拆分、执行线程池拆分、多样化任务调度策略及策略自动调整和可配置的方案，实现单机资源的自动/按需调整。</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "tpy5r7qxs0zskmc2n3uz78n8",
+          "visible": true,
+          "name": "虚拟计费系统-基础设施计费服务",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>简介：该系统定期采集各基础服务的资源使用量并进行产品分摊，为SaaS架构下的产品成本监控和优化提供数据支撑。</p></li><li><p>主要技术栈：Spring+MongoDB数据存储+React前端</p></li><li><p>主要工作和业绩：<strong>主动参与系统设计</strong>，定义系统内各服务的功能边界。通过向上提供统一数据模型和合理划分服务内部模块，<strong>提升整体开发并行度</strong>。完成资源使用量采集模块中的公共逻辑、测试工具和公共依赖开发，并对各基础设施同事<strong>提供指导以高效准确地完成开发</strong>。最终<strong>实现快速交付</strong>。</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "o68k89vu13gpky9q51n84byc",
+          "visible": true,
+          "name": "社交动态服务",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p style=\"text-align: justify\">简介：该服务用于聚合用户不同类型的动态信息。旨在让用户能够方便地浏览、发布和互动社交内容。</p></li><li><p>主要技术栈：Spring+MongoDB数据存储</p></li><li><p>主要工作和业绩：<strong>优化页面交互</strong>，使用下滑底部刷新的方式；<strong>优化查询条件</strong>，使用时间戳作为翻页的查询条件，避免大翻页；基于（用户id+创建时间）<strong>关键字段创建索引</strong>；对历史动态进行<strong>定期归档</strong>。</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "kds4dwg0nyx949zfcxfn6zdj",
+          "visible": true,
+          "name": "短码服务",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>简介：该服务为各个业务组件提供不同形式的短码转换和解析功能，避免重复开发。</p></li><li><p>主要技术栈：Spring+MySQL数据存储</p></li><li><p>主要工作和业绩：提出<strong>数据库自增字段分号方案</strong>，解决常规hash方案中不可避免的碰撞问题；提出<strong>本地短码预分配方案</strong>，减少数据库竞争，提高接口响应时间；提出<strong>分号器记录分块方案</strong>，避免出现连续多次请求到相连短码。</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ncxgdjjky54gh59iz2t1xi1v",
+          "visible": false,
+          "name": "通用数据采集服务",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>简介：该服务支持通过配置将一系列数据处理操作串联成一个代表具体业务场景的处理流程。为微服务架构下的跨系统数据采集提供能力支持。</p></li><li><p>主要技术栈：Spring+MongoDB数据存储+React前端</p></li><li><p>主要工作和业绩：提出使⽤⼆维表结构作为数据传递抽象的<strong>设计决策</strong>；使⽤模板设计模式，将操作抽象为逐⾏处理的可并⾏数据操作类型和整表处理的不可并⾏操作类型，将处理流程划分为校验、执⾏和结果处理。⼤幅<strong>简化扩展开发工作量</strong>。</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "自我评价",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "技能清单",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "eyv5br4lan12kznhypgeziip",
+          "visible": true,
+          "name": "具备全生命周期软件工程实战经验，包括需求分析、系统设计、编码与测试、发布与交付。",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "qyp8yxr07n4x6rb4x57lsxh4",
+          "visible": true,
+          "name": "具备面向对象分析和设计能力。熟悉常见的系统优化手段如拆分、异步、缓存。",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "o2dmqo3huian5n0bwr0ptj42",
+          "visible": true,
+          "name": "熟悉Java开发知识，了解JavaScript、Python以及shell基础知识，能够熟练使用AIAC快速完成编码。",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "iu36jo7b22k5dyzdq7d9la9u",
+          "visible": true,
+          "name": "熟悉主流开发技术栈如Spring、React、MySQL、MongoDB、RabbitMQ等。",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "rkedeukjssdl4ncwkqw0g46d",
+          "visible": true,
+          "name": "熟悉常用的开发工具如Git、Maven和IDEA。",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "references"
+        ],
+        [
+          "profiles",
+          "skills",
+          "certifications",
+          "interests",
+          "languages",
+          "awards",
+          "volunteer",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 14,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#ca8a04"
+    },
+    "typography": {
+      "font": {
+        "family": "Merriweather",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 13
+      },
+      "lineHeight": 1.75,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}

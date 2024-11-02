@@ -1,0 +1,390 @@
+{
+  "basics": {
+    "name": "ChengDong He",
+    "headline": "Java Developer",
+    "email": "hcdong1994@gmail.com",
+    "phone": "+86-18859111233",
+    "location": "FuJian, China",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "swjgnesgscp864mb1qaz3s4i",
+        "icon": "",
+        "name": "",
+        "value": "1994.03"
+      }
+    ],
+    "picture": {
+      "url": "https://i.imgur.com/HgwyOuJ.jpg",
+      "size": 120,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": true,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "summary",
+      "content": "<p>Innovative Web Developer with 5 years of experience in building impactful and user-friendly websites and applications. Specializes in <strong>front-end technologies</strong> and passionate about modern web standards and cutting-edge development techniques. Proven track record of leading successful projects from concept to deployment.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "spdhh9rrqi1gvj0yqnbqunlo",
+          "visible": true,
+          "name": "Full-Stack Web Development",
+          "issuer": "CodeAcademy",
+          "date": "2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "n838rddyqv47zexn6cxauwqp",
+          "visible": true,
+          "name": "AWS Certified Developer",
+          "issuer": "Amazon Web Services",
+          "date": "2019",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "yo3p200zo45c6cdqc6a2vtt3",
+          "visible": true,
+          "institution": "Central China Normal University",
+          "studyType": "Information Management and Information System/Psychology",
+          "area": "HuBei, China",
+          "score": "",
+          "date": "Sep. 2012 to June 2016",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "lhw25d7gf32wgdfpsktf6e0x",
+          "visible": true,
+          "company": "NetDragon Websoft Inc.",
+          "position": "Java Developer",
+          "location": "Fujian, China",
+          "date": "July 2016 to July 2024",
+          "summary": "<p>Responsible for the development and maintenance of public support services under SaaS architecture. Responsible for requirements matching to delivery of DevOps and Ops automation requirements. During the period of employment, there was no online failure of the services in charge.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": []
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "cnbk5f0aeqvhx69ebk7hktwd",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "johndoe",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://linkedin.com/in/johndoe"
+          }
+        },
+        {
+          "id": "ukl0uecvzkgm27mlye0wazlb",
+          "visible": true,
+          "network": "GitHub",
+          "username": "johndoe",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/johndoe"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "yw843emozcth8s1ubi1ubvlf",
+          "visible": true,
+          "name": "Task Schedule Service",
+          "description": "Architect/Developer",
+          "date": "",
+          "summary": "<ul><li><p>Introduction：The service contains one timed tasks, periodic timed tasks and failure resend function, which provides capability support for the final consistency of data under the microservice architecture. </p></li><li><p>Main Technology Stack: Spring+MongoDB data storage+Dual RabbitMQ as highly available data input channel+React front-end</p></li><li><p>Key Work and Performance: <strong>Solved the problem of resource hogging caused by a large number of unexpected tasks.</strong> Realizes automatic/on-demand adjustment of stand-alone resources by means of task data table splitting, execution thread pool splitting, diversified task scheduling policies and automatic adjustment of policies and configurable schemes.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "lqxrnwhepqsmaqtk9od4nwss",
+          "visible": true,
+          "name": "Virtual Billing System-Infrastructure Billing Services",
+          "description": "Architect/Developer",
+          "date": "",
+          "summary": "<ul><li><p>Introduction：The system regularly collects the resource usage of each basic service and apportions it to the product, providing data support for product cost monitoring and optimization under SaaS architecture.</p></li><li><p>Main Technology Stack: Spring+MongoDB data storage+React front-end</p></li><li><p>Key Work and Performance: <strong>Proactively participate in system design</strong> and define the functional boundaries of each service within the system. <strong>Enhance the overall development parallelism</strong> by upwardly providing a unified data model and reasonably dividing the internal modules of services. Complete the development of public logic, testing tools and public dependencies in the resource usage collection module, and <strong>provide guidance to colleagues in various infrastructures to complete the development efficiently and accurately</strong>. Ultimately <strong>achieve rapid delivery</strong>.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "mezzljbrfu91l3dg40z3rstt",
+          "visible": true,
+          "name": "Dynamic Service",
+          "description": "Architect/Developer",
+          "date": "",
+          "summary": "<ul><li><p>Introduction: The service is used to aggregate different types of dynamic information from users. It aims to allow users to easily browse, post and interact with social content. </p></li><li><p>Main Technology Stack: Spring+MongoDB data storage</p></li><li><p>Key Work and Performance: <strong>Optimize page interaction</strong>, use slide down bottom refresh; <strong>Optimize query condition</strong>, use timestamp as query condition for page flip to avoid big page flip; Create index based on (user id+creation time) key field; Split library and table based on creation time and user id; Perform dynamic information for historical <strong>periodic archiving.</strong></p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "n0eu9zqzgu7r3obxzqg11z2o",
+          "visible": true,
+          "name": "Short-code service",
+          "description": "Architect/Developer",
+          "date": "",
+          "summary": "<ul><li><p>Introduction: The service provides different forms of shortcode conversion and parsing functions for each business component to avoid repeated development. </p></li><li><p>Main Technology Stack: Spring+MySQL data storage</p></li><li><p>Key Work and Performance: Propose database <strong>self-incrementing field </strong>numbering scheme to solve the unavoidable collision problem in the conventional hash scheme. Propose <strong>local short code pre-allocation</strong> scheme to reduce database competition and improve interface response time. Propose <strong>a splitter record chunking</strong> scheme to avoid multiple consecutive requests to the connected short code.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ncxgdjjky54gh59iz2t1xi1v",
+          "visible": false,
+          "name": "Universal Data Acquisition Service",
+          "description": "Architect/Developer",
+          "date": "",
+          "summary": "<ul><li><p>Introduction : The service supports the configuration of a series of data processing operations in series into a processing flow representing a specific business scenario. Provide capability support for cross-system data collection under microservice architecture. </p></li><li><p>Main technology stack: Spring + MongoDB data storage + React front-end</p></li><li><p>Main work and performance: proposed the use of a two-dimensional table structure as a <strong>design decision</strong> for data transfer abstraction; using <strong>template design patterns</strong>, the operation is abstracted into a row-by-row processing of the type of parallelizable data operations and the type of non-parallelizable operations of the whole-table processing; processing process is divided into checksums, execution, and result processing. Significantly reduce code redundancy and simplify development.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "references",
+      "items": [
+        {
+          "id": "f2sv5z0cce6ztjl87yuk8fak",
+          "visible": true,
+          "name": "Available upon request",
+          "description": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "hn0keriukh6c0ojktl9gsgjm",
+          "visible": true,
+          "name": "",
+          "description": "Hands-on experience in full life cycle software engineering, including requirements analysis, system design, coding and testing, release and delivery.",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "r8c3y47vykausqrgmzwg5pur",
+          "visible": true,
+          "name": "",
+          "description": "Object-oriented analysis and design skills. Familiar with common system optimization tools such as splitting, asynchronous, caching.",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "b5l75aseexqv17quvqgh73fe",
+          "visible": true,
+          "name": "",
+          "description": "Familiar with Java development knowledge, understanding of JavaScript, Python and shell basics, and able to use AIAC to complete coding quickly.",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "olxp8am1eu7n9k1i1fwn7mkt",
+          "visible": true,
+          "name": "",
+          "description": "Familiar with mainstream development technology stacks such as Spring, React, MySQL, MongoDB, RabbitMQ, etc.",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "v2e0fj8mlucig4yvwr4a42hd",
+          "visible": true,
+          "name": "",
+          "description": "Familiar with common development tools such as Git, Maven and IDEA.",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "references"
+        ],
+        [
+          "profiles",
+          "skills",
+          "certifications",
+          "interests",
+          "languages",
+          "awards",
+          "volunteer",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 14,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#ca8a04"
+    },
+    "typography": {
+      "font": {
+        "family": "Merriweather",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 13
+      },
+      "lineHeight": 1.75,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
